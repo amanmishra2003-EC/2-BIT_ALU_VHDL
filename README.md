@@ -56,8 +56,6 @@ Testbench-based functional verification
 RTL and synthesis flow in Vivado <br>
 
 
-Synthesized design view
-
 🏁 Conclusion
 
 This project demonstrates the implementation and verification of a basic 2-bit ALU, strengthening fundamental concepts in digital logic design and VHDL-based RTL development.
