@@ -55,6 +55,19 @@ Testbench-based functional verification
 
 RTL and synthesis flow in Vivado <br>
 
+📷 Outputs Included
+
+Functional simulation waveform
+
+<img width="1920" height="1109" alt="Screenshot (213)" src="https://github.com/user-attachments/assets/07f2b4fb-3e36-4493-8402-9d2ab35c21a8" />
+
+RTL schematic
+<img width="1920" height="1111" alt="Screenshot (211)" src="https://github.com/user-attachments/assets/75ba60c8-93fd-4a8f-9b14-6fc10a2ee18f" />
+
+
+Synthesized design view
+<img width="1920" height="1111" alt="Screenshot (212)" src="https://github.com/user-attachments/assets/a1991635-4aea-4952-8942-7468620b3cff" />
+
 
 🏁 Conclusion
 
