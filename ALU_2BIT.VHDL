@@ -10,7 +10,7 @@ entity ALU_2bit is
         RESULT : out STD_LOGIC_VECTOR(1 downto 0); --2BIT OUTPUT
         CARRY  : out STD_LOGIC                     -- 1BIT OUTPUT CARRY
     );
-end ALU_2bit;                                      --end of antity
+end ALU_2bit;                                      --end of entity
 
 architecture Behavioral of ALU_2bit is
     signal temp : UNSIGNED(2 downto 0);
